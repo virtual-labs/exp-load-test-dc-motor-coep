@@ -1,1 +1,1 @@
-### Aim of the experiment
+### Aim: To Study Load Test on Separately Excited DC Motor
