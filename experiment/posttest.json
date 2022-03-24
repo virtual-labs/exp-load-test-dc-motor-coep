@@ -2,63 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A DC shunt motor works on the AC mains",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "unsatisfactorily",
+        "b": "satisfactorily",
+        "c": "not at all",
+        "d": "None of these"
       },
       
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In a DC Motor, unidirectional torque is generated with the help of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "brushes",
+        "b": "commutator",
+        "c": "end plates",
+        "d": "both a and b"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The counter emf of a DC motor",
+      "answers": {
+        "a": "Often exceeds the supply voltage",
+        "b": "aids the applied voltage",
+        "c": "helps in energy conservation(by controlling current input)",
+        "d": "regulates the armature voltage"
       },
       
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "If pole flux of DC motor approaches to zero its speed will",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "approach a stable value between zero and infinity",
+        "b": "approach infinity",
+        "c": "no change due to corresponding change in back emf",
+        "d": "approach zero"
       },
       
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
