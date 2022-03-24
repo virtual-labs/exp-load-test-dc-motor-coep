@@ -1,0 +1,1 @@
+### Aim: To Study Load Test on Separately Excited DC Motor
