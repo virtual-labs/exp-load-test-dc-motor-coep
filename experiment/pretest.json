@@ -2,63 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The mechanical power developed by the armature of a DC motor is equal to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "armature current multiplied by back emf",
+        "b": "power input minus losses",
+        "c": "power output multiplied by efficiency",
+        "d": "power output plus iron losses"
       },
       
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The shaft torque of an DC Motor is less than its armature torque because of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Copper losses",
+        "b": "mechanical losses",
+        "c": "iron losses",
+        "d": "rotational losses"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The Eb/V ratio of a DC motor is an indication of its",
+      "answers": {
+        "a": "starting torque",
+        "b": "speed regulation",
+        "c": "efficiency",
+        "d": "running torque"
       },
       
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "If load on DC shunt motor is increased, its speed",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "increase proportionately",
+        "b": "reduces slightly",
+        "c": "increases slightly",
+        "d": "remains constant"
       },
       
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
