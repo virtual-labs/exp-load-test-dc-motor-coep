@@ -1,1 +1,1 @@
-## Experiment name
+### Load Test On Seperately Excited DC Motor
