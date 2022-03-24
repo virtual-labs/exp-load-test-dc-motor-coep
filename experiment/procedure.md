@@ -18,13 +18,13 @@
 14. Go on repeating this procedure till all loads are connected and data is stored.
 15. Now display the data by clicking "Show data". For Ex
 <Center><img src="images/PR 4.png"></center>
-* Vf=field voltage of DC motor
-* If=field current of DC motor
-* Va=armature voltage of DC motor
-* Ia= armature current of DC motor
-* Vfg= field voltage of generator
-* Ifg=field current of generator
-* Vt=terminal voltage
+* Vf=field voltage of DC motor \
+* If=field current of DC motor \
+* Va=armature voltage of DC motor \
+* Ia= armature current of DC motor \
+* Vfg= field voltage of generator \
+* Ifg=field current of generator \
+* Vt=terminal voltage \
 * Iag=armature current of generator
 16. Now select one of the graphs from available graphs and use "Generate graph" to plot the graph.For Ex
 17. While switching off, reduce the generator excitation to some lower value and then remove the electrical load of generator.
